@@ -244,7 +244,7 @@ export default function Frame({ children }) {
             preserveAspectRatio="none"
           >
             <path
-              fill="#000"
+              fill="#0e0e0e"
               fillRule="evenodd"
               d={`M 0 0 H ${size.w} V ${size.h} H 0 Z ${panelPath(size.w, size.h, geo)}`}
             />
