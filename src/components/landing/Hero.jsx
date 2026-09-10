@@ -196,9 +196,8 @@ export default function Hero() {
           data-hero-copy
           className="mt-8 max-w-xl font-body text-[15px] leading-relaxed text-white/55 sm:text-[16px]"
         >
-          Weberzio is an AI native software development company in Kerala,
-          building web and mobile apps for startups and enterprises — Flutter
-          mobile apps, MERN stack platforms, ecommerce websites and cloud
+          Weberzio is an AI native software development company in Kerala
+          building web & mobile apps, MERN stack platforms & cloud
           infrastructure engineered to scale.
         </p>
 

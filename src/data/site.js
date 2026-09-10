@@ -7,7 +7,7 @@ export const site = {
   name: "Weberzio",
   tagline: "AI Native Software Development Company in Kerala",
   description:
-    "Weberzio is an AI native software development company in Kerala building web and mobile apps for startups and enterprises — Flutter apps, MERN stack platforms, ecommerce websites and cloud infrastructure built to scale.",
+    "Weberzio is an AI native software development company in Kerala building web & mobile apps, MERN stack platforms & cloud infrastructure engineered to scale.",
   url: "https://www.weberzio.in",
 };
 

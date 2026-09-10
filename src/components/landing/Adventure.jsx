@@ -173,8 +173,8 @@ export default function Adventure() {
           data-lead
           className="mx-auto mt-4 max-w-lg text-center font-body text-[15px] leading-relaxed text-neutral-500"
         >
-          We partner with founders, product teams, and enterprises to design and
-          build software that solves real problems
+          As a top mobile app development company in kerala and arguably the best mobile app development company in kerala, we partner with founders and enterprises to design and
+          build software that solves real problems.
         </p>
 
         <div className="relative mt-9 sm:mt-14 grid gap-6 lg:grid-cols-2">

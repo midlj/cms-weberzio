@@ -122,7 +122,7 @@ export default function Services() {
           </h2>
           <p className="mt-5 font-body text-[15px] leading-relaxed text-neutral-500 sm:text-[16px]">
             Web applications, SaaS platforms, APIs, cloud infrastructure, and
-            the technical guidance to keep it all moving forward. Engagements
+            the technical guidance to keep it all moving forward. As the best website development company in kerala, we ensure engagements
             are scoped to the outcome, not the hours.
           </p>
         </div>

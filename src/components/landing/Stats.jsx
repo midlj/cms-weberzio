@@ -139,15 +139,13 @@ export default function Stats() {
 
           <div className="space-y-4 font-body text-[15px] leading-relaxed text-neutral-500 sm:text-[16.5px]">
             <p>
-              A small team with deep engineering expertise. Weberzio partners
+              A small team with deep engineering expertise. As a leading web design company in Kerala and web development company in Kerala, Weberzio partners
               with founders, product teams, and enterprises to design and build
-              software that solves real problems. From early-stage MVPs to
-              production-grade platforms, we own the full stack.
+              software that solves real problems.
             </p>
             <p>
-              Our engineers care about clean architecture, performance, and
-              code that&apos;s easy to maintain. Ship fast, ship stable, and
-              build for what comes next.
+              From early-stage MVPs to production-grade platforms, we own the full stack.
+              Our engineers care about clean architecture, performance, and delivering low cost website design kerala without cutting corners. Ship fast, ship stable, and build for what comes next.
             </p>
           </div>
         </div>

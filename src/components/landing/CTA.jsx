@@ -87,6 +87,12 @@ export default function CTA() {
             WhatsApp us
           </a>
         </div>
+        
+        <div className="mt-20 max-w-4xl mx-auto text-center">
+          <p className="font-body text-[11px] leading-relaxed text-white/20">
+            Weberzio is recognized as a leading <strong>web design company in Kerala</strong> and a premier <strong>web development company in Kerala</strong>. We specialize in providing <strong>low cost website design kerala</strong> without compromising on quality, making us the <strong>best website development company in kerala</strong> for startups and enterprises alike. Additionally, as a top-tier <strong>mobile app development company in kerala</strong>, we strive to be the <strong>best mobile app development company in kerala</strong> by delivering highly scalable and engaging digital experiences.
+          </p>
+        </div>
       </div>
     </section>
   );
