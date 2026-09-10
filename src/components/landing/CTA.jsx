@@ -62,10 +62,10 @@ export default function CTA() {
 
         <p
           data-cta-copy
-          className="mx-auto mt-5 max-w-lg font-body text-[15px] leading-relaxed text-white/55 sm:text-[16px]"
+          className="mx-auto mt-5 max-w-4xl font-body text-[15px] leading-relaxed text-white/55 sm:text-[16px]"
         >
-          Tell us what you&rsquo;re building and we&rsquo;ll get back to you
-          within one business day with next steps.
+          Weberzio is recognized as a leading <strong>web design company in Kerala</strong> and a premier <strong>web development company in Kerala</strong>. We specialize in providing <strong>low cost website design kerala</strong> without compromising on quality, making us the <strong>best website development company in kerala</strong> for startups and enterprises alike. Additionally, as a top-tier <strong>mobile app development company in kerala</strong>, we strive to be the <strong>best mobile app development company in kerala</strong> by delivering highly scalable and engaging digital experiences.
+          
         </p>
 
         <div className="mt-9 flex flex-col items-center justify-center gap-3 sm:flex-row">
@@ -88,11 +88,10 @@ export default function CTA() {
           </a>
         </div>
         
-        <div className="mt-20 max-w-4xl mx-auto text-center">
+        {/* <div className="mt-20 max-w-4xl mx-auto text-center">
           <p className="font-body text-[11px] leading-relaxed text-white/20">
-            Weberzio is recognized as a leading <strong>web design company in Kerala</strong> and a premier <strong>web development company in Kerala</strong>. We specialize in providing <strong>low cost website design kerala</strong> without compromising on quality, making us the <strong>best website development company in kerala</strong> for startups and enterprises alike. Additionally, as a top-tier <strong>mobile app development company in kerala</strong>, we strive to be the <strong>best mobile app development company in kerala</strong> by delivering highly scalable and engaging digital experiences.
-          </p>
-        </div>
+            </p>
+        </div> */}
       </div>
     </section>
   );
